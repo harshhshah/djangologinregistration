@@ -1,0 +1,53 @@
+Content-Type: multipart/alternative;
+ boundary="===============7864671076827232652=="
+MIME-Version: 1.0
+Subject: Your username
+From: test@example.com
+To: chirag@gmail.com
+Date: Sat, 22 Jun 2019 07:04:10 -0000
+Message-ID: <156118705026.8892.12231081832159358853@HARSH-PC>
+
+--===============7864671076827232652==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+
+Your username is:
+
+chirag
+
+--===============7864671076827232652==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>Your username</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+
+<body>
+
+<p>
+    Your username is:
+</p>
+
+<p>
+    chirag
+</p>
+
+</body>
+
+</html>
+
+--===============7864671076827232652==--
+
+-------------------------------------------------------------------------------
