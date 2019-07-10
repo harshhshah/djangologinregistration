@@ -38,6 +38,9 @@ cd djangologinregistration
 ### Install dependencies & activate virtualenv
 
 ```
+pip install virtualenv
+mkvirtualenv mygit(name of environment)
+workon mygit
 pip install -r requirements.txt
 ```
 
