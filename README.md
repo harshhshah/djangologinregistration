@@ -38,7 +38,7 @@ cd djangologinregistration
 ### Install dependencies & activate virtualenv
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Configure the settings (connection to the database, connection to an SMTP server, and other options)
